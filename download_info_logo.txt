@@ -1,2 +1,5 @@
-To downlod logo file go to RQAW link:
+To downlod logo file go to RAW link:
 https://github.com/jacek64/stations/blob/master/logos/Antyradio.png?raw=true
+
+To download stations:
+https://raw.githubusercontent.com/jacek64/stations/master/stations.json
